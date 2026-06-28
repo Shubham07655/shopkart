@@ -1358,5 +1358,5 @@ The database is seeded with the following accounts on first startup:
 ---
 
 <p align="center">
-  Built with ❤️ using <b>Spring Boot</b> & <b>React</b>
+  Built by Aman,Shubham & Mayank using <b>Spring Boot</b> & <b>React</b>
 </p>
